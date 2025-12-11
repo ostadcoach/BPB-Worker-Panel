@@ -1,5 +1,9 @@
 {
   "name": "bpb-worker-panel",
-  "main": "dist/index.js",
-  "compatibility_date": "2025-12-11"
+  "main": "dist/worker.js",
+  "compatibility_date": "2025-12-11",
+  "assets": {
+    "directory": "dist/public",
+    "binding": "ASSETS"
+  }
 }
